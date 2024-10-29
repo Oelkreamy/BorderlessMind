@@ -1,0 +1,6 @@
+pandas
+sqlalchemy
+jupyter
+nbformat
+psycopg2-binary   # if using PostgreSQL
+sqlite3           # if using SQLite
